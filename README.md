@@ -1,3 +1,3 @@
 # consultorio-medico
 ConsultorioMedico
-CONSULTORIO
+CONSULTORIO_MEDICO
